@@ -5,3 +5,8 @@
 
 
 The Fritzing file that is included required open source software that can be downloaded from the fritzing website.  Included in the fritzing file is a wiring diagram, PCB file and skematic diagram.  A full wiring diagram will become avalable soon..  The code is written in python 3 on a raspberry pi, because of this problems with the GPIO lib may be experienced when editing code on non-Pi devices.
+
+
+FRITZING IS AVALABLE FROM:
+
+http://fritzing.org/download/
