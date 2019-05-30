@@ -1,7 +1,7 @@
-# RasPi-Vex-Feild-Controller
+# RasPi-Vex-Field-Controller
 **Welcome To My VEX Feild Controller Repository,**
 
-**This Repo Details How To Make A Vex Feild Controller With A Timer Countdown On A Monitor That Is Activated With Vex Bumper Switches Or Other Buttons**
+**This Repo Details How To Make A Vex Field Controller With A Timer Countdown On A Monitor That Is Activated With Vex Bumper Switches Or Other Buttons**
 
 
 The Fritzing file that is included required open source software that can be downloaded from the fritzing website.  Included in the fritzing file is a wiring diagram, PCB file and skematic diagram.  A full wiring diagram is now avalible inside the ButtonsFC folder, indide this folder there is wiring diagrams included for the pi and for the driver interface.  The code is written in python 3 on a raspberry pi, because of this problems with the GPIO lib may be experienced when editing code on non-Pi devices.
