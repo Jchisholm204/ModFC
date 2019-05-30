@@ -34,3 +34,7 @@ Lexan/ABS/Acrylic Material, To make a case
 FRITZING IS AVALABLE FROM:
 
 http://fritzing.org/download/
+
+ALSO CHECK OUT THE VEX FIELD CONTROLLER THREAD AT:
+
+https://www.vexforum.com/t/field-control-a-technical-analysis/25651
