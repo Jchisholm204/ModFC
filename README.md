@@ -9,7 +9,7 @@ The Fritzing file that is included required open source software that can be dow
 
 **REQUIRED MATERIALS:**
 
-1 Raspberry pi, perferably not a 3B+
+1 Raspberry pi, perferably a 3B+
 
 2 Relays, low voltage would be best but any relays that will work with Aurduino or Raspberry Pi will work
 
