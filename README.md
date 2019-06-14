@@ -39,5 +39,5 @@ ALSO CHECK OUT THE VEX FIELD CONTROLLER THREAD AT:
 
 https://www.vexforum.com/t/field-control-a-technical-analysis/25651
 
-Original Desighn:
+Original Design:
 <a href="http://tinypic.com?ref=295pch2" target="_blank"><img src="http://i66.tinypic.com/295pch2.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
