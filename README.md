@@ -41,3 +41,7 @@ https://www.vexforum.com/t/field-control-a-technical-analysis/25651
 
 Original Design:
 <a href="http://tinypic.com?ref=295pch2" target="_blank"><img src="http://i66.tinypic.com/295pch2.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=2dha9s8" target="_blank"><img src="http://i66.tinypic.com/2dha9s8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
+Version 2 Design:
